@@ -98,8 +98,3 @@ mvn spring-boot:run
 
 GitHub:  https://github.com/VattikutiHanivarshitha
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
